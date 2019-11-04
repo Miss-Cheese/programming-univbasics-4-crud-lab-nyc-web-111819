@@ -38,7 +38,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  marathon_friends = ["Lyubava","Masha","Cooke","Maria","arrays!"]
+  marathon_friends[-1]
 end
 
 def update_element_from_index(array, index_number, element)
