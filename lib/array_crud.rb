@@ -20,7 +20,6 @@ end
 def remove_element_from_end_of_array(array)
   marathon_friends = ["wow","Lyubava","Masha","Cooke","Maria,"arrays!"] 
    marathon_friends.pop("arrays!")
-  p marathon_friends
 end
 
 def remove_element_from_start_of_array(array)
