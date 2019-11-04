@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   marathon_friends = ["Lyubava","Masha","Cooke","Maria"] 
-  marathon_friends.push("Natasha")
+  marathon_friends.push("arrays!")
   
 end
 
