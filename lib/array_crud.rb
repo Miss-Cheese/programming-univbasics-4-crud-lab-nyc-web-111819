@@ -19,8 +19,7 @@ end
 
 def remove_element_from_end_of_array(array)
   # marathon_friends = ["wow","Lyubava","Masha","Cooke","Maria","arrays!"] 
-  arr_friends = "arrays!"
-  marathon_friends.pop("arrays!")
+  arr_friends = marathon_friends.pop
 end
 
 def remove_element_from_start_of_array(array)
