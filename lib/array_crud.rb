@@ -43,7 +43,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  # marathon_friends = ["Lyubava","Masha","Cooke","Maria","arrays!"]
-  # marathon_friends[4] = "totally" => "totally"
+  marathon_friends = ["Lyubava","Masha","Cooke","Maria","totally"]
+  marathon_friends[4]
   # p marathon_friends
 end
