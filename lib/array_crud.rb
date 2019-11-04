@@ -13,7 +13,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  marathon_friends = ["Lyubava","Masha","Cooke","Maria"] 
+  marathon_friends.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
