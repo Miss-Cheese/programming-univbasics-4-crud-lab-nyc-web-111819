@@ -46,4 +46,5 @@ def update_element_from_index(array, index_number, element)
   marathon_friends = ["Lyubava","Masha","Cooke","Maria","Natasha"]
   marathon_friends[4] = "totally" => "totally"
   p marathon_friends
+  marathon_friends[4]
 end
