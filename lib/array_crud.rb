@@ -18,8 +18,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  marathon_friends = ["wow","Lyubava","Masha","Cooke","Maria","arrays!"] 
-  arr_friends = marathon_friends.pop
+  marathon_friends = ["wow","Lyubava","Masha","Cooke","Maria,"arrays!"] 
+   marathon_friends.pop("arrays!")
   p marathon_friends
 end
 
